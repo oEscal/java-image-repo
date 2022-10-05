@@ -1,0 +1,5 @@
+se/kth/servlet/Constants.class
+se/kth/servlet/MyNameMapper.class
+se/kth/servlet/MyZipEntryCallback.class
+se/kth/servlet/UploadWelcomeServlet.class
+se/kth/servlet/UploadServlet.class
